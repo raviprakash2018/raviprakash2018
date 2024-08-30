@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raviprakash2018
+- 👋 Hi, I’m @raviprakash
 - 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning python,power BI 
 - 💞️ I’m looking to collaborate on analysing the data
